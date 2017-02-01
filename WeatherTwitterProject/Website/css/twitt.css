@@ -1,0 +1,229 @@
+
+
+.TopRight{
+    float: right;
+    text-align: right; 
+    padding-bottom: 200px;
+}
+.TopRightSearch{
+    float: right;
+    text-align: right; 
+    padding-bottom: 20px;
+}
+
+.TopBar {
+    max-width: 90%;
+    clear:both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%
+}
+.TopBarSearch {
+    max-width: 90%;
+    clear:both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    padding-bottom: 1%;
+}
+ul li {
+    background: #F5F5F5;
+    margin: 7px;
+}
+
+.TweetsList{
+    max-width: 94%;
+      margin-left: auto;
+    margin-right: auto;
+}
+.formButt2 {
+    background-color: #F0F0F0;
+    
+    border: none;
+    color: #7A7A7A;
+    padding: 8px 26px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.graphsButt {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.TopImg {
+    
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.formDiv{
+     max-width: 90%;
+    clear:both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
+}
+.formButt{
+    max-width: 90%;
+    clear:both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+input[type=text]
+{
+  box-shadow:2px 2px 4px #CFCECE;
+  background: #fff;
+  border: 0.5px solid #F1F1F1;
+    height: 40px;
+    width: 560px;
+    text-align: left;
+    text-indent: 10px;
+}
+
+.graphsMain{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    clear:both;
+    text-align: center;
+}
+.secondGraphRow{
+     clear:both;
+     margin-left: auto;
+    margin-right: auto;
+}
+.doubleGraphs{
+    clear:both;
+     margin-left: auto;
+    margin-right: auto;
+}
+.doubleGraphCont{
+    width: 50%;
+    clear: none;
+}
+
+.graphLeft{
+    float: left;
+}
+.graphRight{
+    float: right;
+}
+.firstRow{
+    clear:both;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+.textSqueeze{
+    text-align: left;
+    width: 50%; 
+    padding-top: 10%;
+    padding-bottom: 15px;
+    font-size: 17px;  
+    float: left;
+}
+.firstGraph{
+    float: right;
+    width: 50%;
+    left: 30%;
+    
+    
+    
+}
+.textSqueeze2{
+    text-align: left;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 490px;
+    padding-bottom: 15px;
+    font-size: 17px;
+ 
+   
+}
+.firstRowText{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+    text-align: left;
+    font-size: 18px;
+}
+
+    
+
+.thirdRow{
+    float: both;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top:540px;
+    max-width:70%
+}
+
+.fourthRow{
+    float: both;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top:20px;
+    max-width:70%
+}
+
+body, html {
+    height: 100%;
+}
+
+.parallax { 
+    background-image: url("https://cdn.rawgit.com/rachaelecole/WeatherTwitterProject/a6b688fe/Website/img/background%20img.jpg");
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.introText{
+    color: aliceblue;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 60px; 
+    position:absolute;
+    top: 40%;
+    left: 2%;
+    width: 100%;
+    letter-spacing: 5px;
+}
+.introText2{
+    color: aliceblue;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 30px; 
+    position:absolute;
+    
+   
+    width: 100%;
+    letter-spacing: 5px;
+}
+
+p {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+p2 {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 20px;
+}
